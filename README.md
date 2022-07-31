@@ -2,14 +2,14 @@
  * @Author: Chengsen Dong 1034029664@qq.com
  * @Date: 2022-07-31 15:02:09
  * @LastEditors: Chengsen Dong 1034029664@qq.com
- * @LastEditTime: 2022-07-31 15:18:58
+ * @LastEditTime: 2022-07-31 15:34:21
  * @FilePath: /xddcore/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
 ###  👋关于我
 初二(2015年)开始自学电子编程的小菜鸟，对任何方向的电子编程有极大兴趣。喜欢摄影，徒步，写代码，鼓捣好玩的电子产品等。
 CSDN:[点我访问](https://blog.csdn.net/qq_36229876)
-博客:[点我访问](www.chiselos.com)
+博客:[点我访问](http://www.chiselos.com)
 Bilibili:[点我访问](https://space.bilibili.com/12844784)
 
 ### 教育背景
