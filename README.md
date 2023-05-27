@@ -2,16 +2,21 @@
  * @Author: Chengsen Dong 1034029664@qq.com
  * @Date: 2022-07-31 15:02:09
  * @LastEditors: Chengsen Dong 1034029664@qq.com
- * @LastEditTime: 2023-03-22 13:58:06
+ * @LastEditTime: 2023-05-27 15:38:02
  * @FilePath: /xddcore/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
 ### 👋关于我
 初二(2015年)开始自学电子编程的小菜鸟，对任何方向的电子编程有极大兴趣。喜欢摄影，徒步，音乐，写代码，鼓捣好玩的电子产品等。<br>
 想要获取更多?<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xddcore&layout=compact" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+
 CSDN:[点我访问](https://blog.csdn.net/qq_36229876)<br>
 博客:[点我访问](http://www.chiselos.com)<br>
 Bilibili:[点我访问](https://space.bilibili.com/12844784)<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xddcore&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 🎓教育背景
 |学历|学校|时间|专业|注释|
